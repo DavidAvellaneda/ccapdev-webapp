@@ -2,6 +2,8 @@
 
 **This is a partial fullfilment of the requirements needed for the course CCAPDEV (Web Application Development) of DLSU-CCS.** 
 
+---
+
 *---About the Web Application---*
 
    The present webapp is entitled 'MADALE: Growtopia Forum' is an online forum designed for the players to communicate and share their ideas, experiences, as well as their achievements. Users can ask questions with regards to how they build castles, dungeons, artwork, etc; also about creating unique characters, exploring pixel worlds, and discovering some consumables needed for their GROW! 
