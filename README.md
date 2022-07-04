@@ -8,5 +8,6 @@ The present webapp is entitled 'MADALE: Growtopia Forum' is an online forum desi
 
 As part of the specification: Users can start accessing this through loggin in to the web application, searching other user accounts, posting questions or ideas, commenting to posts, and navigating posts through the given categories. 
 
+**Instructions on how to run the project locally**
 
 
